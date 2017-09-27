@@ -1,8 +1,9 @@
-# Windows Caffe
+# Windows Caffe v1.0 with Unpooling layer
 
 **This is an experimental, community based branch led by Guillaume Dumont (@willyd). It is a work-in-progress.**
 
 This branch of Caffe ports the framework to Windows.
+This Caffe repository (master and windows branches) contains unpooling layer from PR: https://github.com/BVLC/caffe/pull/3601
 
 [![Travis Build Status](https://api.travis-ci.org/BVLC/caffe.svg?branch=windows)](https://travis-ci.org/BVLC/caffe) Travis (Linux build)
 
