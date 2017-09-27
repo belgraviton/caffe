@@ -1,7 +1,9 @@
-# Caffe
+# Caffe v1.0 with Unpooling layer
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
+
+This Caffe repository contains unpooling layer from PR:https://github.com/BVLC/caffe/pull/3601
 
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
 It is developed by Berkeley AI Research ([BAIR](http://bair.berkeley.edu))/The Berkeley Vision and Learning Center (BVLC) and community contributors.
